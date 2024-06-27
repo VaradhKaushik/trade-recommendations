@@ -2,3 +2,5 @@
 ta-lib/
 *gz
 *zip
+dump/
+*docx
